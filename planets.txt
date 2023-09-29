@@ -4,5 +4,6 @@ Venus
 Earth
 - Moon
 Jupiter
+- Europa
 Saturn
 Uranus
